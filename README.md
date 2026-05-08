@@ -28,3 +28,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Author
 Khomisanani Tshimbane
 Typo fixed in README
+Another typo fix
