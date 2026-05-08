@@ -1,3 +1,16 @@
 [
+$ curl https://api.github.com/repos/khomietshimbane-100/github-final-project/pulls
+
+
+  {
+    "url": "https://api.github.com/repos/khomietshimbane-100/github-final-project/pulls/1",
+    "state": "open",
+    "head": {
+      "ref": "bug-fix-revert"
+    },
+    "base": {
+      "ref": "main"
+    }
+  }
 
 ]
